@@ -1,5 +1,6 @@
 # Employee-turnover
-The employee_turnover.csv dataset was created by IBM data scientists. It provides employee data on various attributes related to job characteristics, work environment, employee demographics, … and whether the employee is active or terminated.  I carried out analysis reports on employee turnover so that actions can be taken to help reduce employee turnover in the future.
+The employee_turnover.csv dataset was created by IBM data scientists. It provides employee data on various attributes related to job characteristics, work environment, employee demographics, … and whether the employee is active or terminated.   
+I carried out analysis reports on employee turnover so that actions can be taken to help reduce employee turnover in the future.
 ## Key analytical questions for HR managers:
 - How does the company's turnover rate compare to industry standards?
 - To what extent has the company lost its top performers?
